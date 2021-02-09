@@ -1,6 +1,6 @@
 # Advanced Machine learning seminar
 
-This is the official repository of the advanced machine learning seminar. Please see all the topics below. If you have a topic suggestion please email us at (olaralex666@gmail.com) and we might consider it to be included here.
+This is the official repository of the advanced machine learning seminar. Please see all the topics below. If you have a topic suggestion please email [us](emailto:/olaralex666@gmail.com) and we might consider it to be included here.
 
 ## Topics
 
