@@ -1,4 +1,4 @@
-# Advanced Machine learning seminar
+# Advanced Machine learning lab
 
 This is the official repository of the advanced machine learning seminar. Please see all the topics below. If you have a topic suggestion please email [us](mailto:olaralex666@gmail.com) and we might consider it to be included here.
 
