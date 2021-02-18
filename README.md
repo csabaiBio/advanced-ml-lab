@@ -39,6 +39,16 @@ This is the official repository of the advanced machine learning seminar. Please
   * Langevin sampling
 * evaluate your generated images with the basic generative scores (FID, Inception score)
 
+### 4. [Visualizing the Impact of Feature Attribution Baselines](https://distill.pub/2020/attribution-baselines/)
+
+*Abstract:* Path attribution methods are a gradient-based way of explaining deep models. These methods require choosing a hyperparameter known as the baseline input. What does this hyperparameter mean, and how important is it? In this article, we investigate these questions using image classification networks as a case study. We discuss several different ways to choose a baseline input and the assumptions that are implicit in each baseline. Although we focus here on path attribution methods, our discussion of baselines is closely connected with the concept of missingness in the feature space - a concept that is critical to interpretability research.
+
+* read and understand the overview article and the underlying methods for integrated gradients, smooth grad, expected gradients
+* investigate class activation mapping (CAM) or gradient class activation mapping (Grad-CAM)
+ * implement one of these
+* reproduce the visualizations (not interactively) from the paper in the title
+ * also add CAM/GradCAM to the visualizations with the attributions methods
+
 -----------------------
 
 Requirements:
